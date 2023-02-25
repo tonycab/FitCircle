@@ -1,0 +1,11 @@
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\bin\Debug\FitCircle.exe.config
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\bin\Debug\FitCircle.exe
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\bin\Debug\FitCircle.pdb
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\bin\Debug\MathNet.Numerics.dll
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\bin\Debug\MathNet.Numerics.xml
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.csproj.AssemblyReference.cache
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.csproj.CoreCompileInputs.cache
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.csproj.CopyComplete
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.exe
+C:\Users\alecabellec\Desktop\Nouveau dossier (3)\FitCircle\FitCircle\obj\Debug\FitCircle.pdb
